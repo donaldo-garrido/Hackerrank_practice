@@ -20,7 +20,7 @@ if __name__ == '__main__':
     z = int(input())
     n = int(input())
     
-    # AS reference, I will calculate using for loops
+    # As reference, I will calculate using for loops
     final_list = []
 
     for ii in range(x+1):
